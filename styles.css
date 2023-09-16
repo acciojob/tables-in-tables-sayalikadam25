@@ -7,7 +7,7 @@ th, td,tr{
 	border:1px solid black;
 }
 .td-style{
-	background-color:black;
+	background-color: rgb(0,0,0);
 	color:white;
 }
 
